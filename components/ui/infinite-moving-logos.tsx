@@ -105,8 +105,9 @@ export const InfiniteMovingLogos = ({
                 width={10000}
                 height={10000}
                 className="
-                w-40
-                md:w-60
+                w-70
+                h-60
+                md:w-90
                  "
               />
             </div>

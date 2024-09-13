@@ -62,7 +62,7 @@ export default function Home() {
     <Image
         src={backgroundImage}
         alt="Hero Background"
-        style={{ height:"700px"}} 
+        style={{ height:"550px"}} 
         className="absolute inset-0 z-0 "
       />
       <Element
@@ -149,7 +149,7 @@ export default function Home() {
 
           
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 items-center text-left md:justify-items-center md:mx-auto mt-10 md:mt-16">
+          <div className="grid  grid-cols-2 md:grid-cols-4 gap-4 items-center text-left md:justify-items-center md:mx-auto mt-[3rem] md:mt-16">
             <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
               <p className="md:text-xl font-semibold flex gap-x-2 md:gap-x-4 items-center">
                 <PiCheckBold className="text-xl text-blue-500" />
@@ -205,7 +205,7 @@ export default function Home() {
               </div>
             </div>
 
-            <section className="overflow-hidden mt-10 md:w-4/5">
+            <section className="overflow-hidden mt-10 w-full h-[200px] md:w-4/5">
               <InfiniteMovingLogos
                 speed="slow"
                 direction="left"
