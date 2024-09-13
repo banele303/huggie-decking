@@ -36,7 +36,7 @@ export function DeckingTypes() {
                         alt="jordans"
                         height="500"
                         width="500"
-                        className="h-[250px md:object-contain rounded-md"
+                        className="h-[250px] md:object-contain rounded-md"
                     />
 
 
@@ -70,7 +70,7 @@ export function DeckingTypes() {
         alt="jordans"
         height="500"
         width="500"
-        className="h-[250px rounded-md   md:h-[350px]"
+        className="h-[250px] rounded-md   md:h-[350px]"
     />
 
 
@@ -163,7 +163,7 @@ SPC VINYL FLOORING
         alt="jordans"
         height="500"
         width="500"
-        className="h-[250px md:object-contain rounded-md"
+        className="h-[250px] md:object-contain rounded-md"
     />
 
 
@@ -194,7 +194,7 @@ SPC VINYL FLOORING
         alt="jordans"
         height="500"
         width="500"
-        className="h-[250px md:object-contain rounded-md"
+        className="h-[250px] md:object-contain rounded-md"
     />
 
 
