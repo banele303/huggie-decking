@@ -125,13 +125,13 @@ SPC VINYL FLOORING
     </BackgroundGradient>
 </div>
 
-<div className="rounded-[22px] w-full h-[320px] p-4 sm:p-10 ">
+<div className="rounded-[22px] w-full  p-4 sm:p-10 ">
     <Image
         src={P1}
         alt="jordans"
         height="500"
         width="500"
-        className="object-contain rounded-md"
+        className="h-[320px] rounded-md"
     />
 
 
