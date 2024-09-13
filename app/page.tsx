@@ -372,16 +372,12 @@ You can feel secure knowing that every one of our crew members is as dedicated t
             </div>
 
             <span className="text-xl font-medium">
-              Jordan, Brisson <br />
-              CEO, Atlas Massage
+              Jordan, Brisson 
             </span>
           </div>
           <div className="flex flex-col gap-y-5 ">
             <h1 className="text-lg md:text-xl ">
-              &quot;We&apos;ve been working with Bird for over 2 years and
-              they&apos;ve been amazing to work with. They&apos;ve helped us
-              grow our business and we couldn&apos;t be happier with the
-              results. &quot;
+             Amazing work by Huggie and team they are the best in decking , I highly recommend them
             </h1>
             <div className="flex items-center gap-x-1">
               <IconStarFilled className="text-4xl text-yellow-500" />
