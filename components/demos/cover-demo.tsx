@@ -26,7 +26,7 @@ export function CoverDemo() {
                  flex 
                   md:justify-center 
                   items-center 
-                  gap-x-4
+                 md:gap-x-4 gap-x-2
                   z-50
                  
                    "
@@ -34,7 +34,7 @@ export function CoverDemo() {
           <Link
             href="/meeting"
             className="py-3 
-            px-10
+            px-4
             md:px-16
           text-[16px]
 
@@ -56,11 +56,10 @@ export function CoverDemo() {
             href={"/showcase"}
             className="
               bg-white
-              hidden
-              md:flex
+             
                  text-gray-500
    py-3 
-   px-5 md:px-10
+   px-4 md:px-10
     text-[16px]
   md:text-lg 
      

@@ -30,7 +30,7 @@ export function DeckingTypes() {
                     </BackgroundGradient>
                 </div>
 
-                <div className="rounded-[22px] w-full md:h-[400px] p-4 sm:p-10 md:mt-[-2rem] ">
+                <div className="rounded-[22px] w-full h-[320px] md:h-[400px] p-4 sm:p-10 md:mt-[-2rem] ">
                     <Image
                         src={Decking}
                         alt="jordans"
@@ -64,7 +64,7 @@ export function DeckingTypes() {
     </BackgroundGradient>
 </div>
 
-<div className="rounded-[22px] w-full  p-4 sm:p-10 items-center md:mt-[-5rem] ">
+<div className="rounded-[22px] w-full h-[320px]  p-4 sm:p-10 items-center md:mt-[-5rem] ">
     <Image
         src={Walldecking}
         alt="jordans"
@@ -94,7 +94,7 @@ export function DeckingTypes() {
     </BackgroundGradient>
 </div>
 
-<div className="rounded-[22px] w-full p-4 sm:p-10 ">
+<div className="rounded-[22px] w-full h-[320px] p-4 sm:p-10 ">
     <Image
         src={Pool}
         alt="jordans"
@@ -125,7 +125,7 @@ SPC VINYL FLOORING
     </BackgroundGradient>
 </div>
 
-<div className="rounded-[22px] w-full p-4 sm:p-10 ">
+<div className="rounded-[22px] w-full h-[320px] p-4 sm:p-10 ">
     <Image
         src={P1}
         alt="jordans"
@@ -157,7 +157,7 @@ SPC VINYL FLOORING
     </BackgroundGradient>
 </div>
 
-<div className="rounded-[22px] w-full p-4 sm:p-10 ">
+<div className="rounded-[22px] h-[320px] w-full p-4 sm:p-10 ">
     <Image
         src={PP}
         alt="jordans"
@@ -188,7 +188,7 @@ SPC VINYL FLOORING
     </BackgroundGradient>
 </div>
 
-<div className="rounded-[22px] w-full p-4 sm:p-10 ">
+<div className="rounded-[22px] h-[320px] w-full p-4 sm:p-10 ">
     <Image
         src={ Lights }
         alt="jordans"
