@@ -100,7 +100,7 @@ export function DeckingTypes() {
         alt="jordans"
         height="500"
         width="500"
-        className="h-[200px md:object-contain rounded-md"
+        className="h-[200px] md:object-contain rounded-md"
     />
 
 

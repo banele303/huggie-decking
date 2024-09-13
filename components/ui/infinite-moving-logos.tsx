@@ -106,7 +106,7 @@ export const InfiniteMovingLogos = ({
                 height={10000}
                 className="
                 w-40
-               
+               h-[150px]
            
                 md:w-90
                  "
