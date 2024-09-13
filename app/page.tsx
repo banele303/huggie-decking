@@ -72,7 +72,7 @@ export default function Home() {
    justify-between py-6 px-4 md:px-8 mx-6"
       >
         <Link href={"/"}>
-         <p className="text-[20px] text-bold"> Huggie Decking</p>
+         <p className="text-[20px] text-bold"> HG Decking</p>
         </Link>
 
         <div className="absolute right-1/2 translate-x-1/2 transform">

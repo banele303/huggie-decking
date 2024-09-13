@@ -56,12 +56,14 @@ export function CoverDemo() {
             href={"/showcase"}
             className="
               bg-white
+              hidden
+              md:flex
                  text-gray-500
    py-3 
-   px-10
+   px-5 md:px-10
     text-[16px]
   md:text-lg 
-      md:text-xl
+     
         border-4
         border-black
         rounded-[6px]
