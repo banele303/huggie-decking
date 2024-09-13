@@ -62,7 +62,7 @@ export default function Home() {
     <Image
         src={backgroundImage}
         alt="Hero Background"
-        style={{   height:"500px"}} 
+        style={{ height:"700px"}} 
         className="absolute inset-0 z-0 "
       />
       <Element

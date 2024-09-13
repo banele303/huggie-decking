@@ -24,7 +24,7 @@ export function CoverDemo() {
         <div
           className="
                  flex 
-                  md:justify-center 
+                  justify-center 
                   items-center 
                  md:gap-x-4 gap-x-2
                   z-50
