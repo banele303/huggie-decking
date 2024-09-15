@@ -20,6 +20,7 @@ import LetsMakeThingsHappenSection from "@/components/ui/lets-make-things-happen
 import Services from "@/components/2ui/services";
 import Allservices from "@/public/images/all-services";
 import { DeckingTypes } from "./about-us/decking-types";
+import Navbar from "./about-us/ui/Navbar";
 
 
 const services = [
@@ -65,12 +66,21 @@ export default function Home() {
         style={{ height:"550px"}} 
         className="absolute inset-0 z-0 "
       />
-      <Element
+
+
+<Navbar/>
+
+{ /*
+
+  <Element
         name="top"
         className="overflow-hidden rounded-[6px] top-5 sticky md:mx-auto z-50 
   bg-white flex items-center 
    justify-between py-6 px-4 md:px-8 mx-6"
       >
+
+
+
         <Link href={"/"}>
          <p className="text-[20px] text-bold"> HG Decking</p>
         </Link>
@@ -133,8 +143,11 @@ export default function Home() {
           </Link>
         </div>
       </Element>
+ */}
 
-      <main className="md:pb-10">
+      
+
+      <main className="md:pb-10 pt-[9rem]">
         <div className="md:px-0 mx-6 xl:w-4/5 2xl:w-[68%] md:mx-auto mt-14">
          
 
@@ -149,7 +162,7 @@ export default function Home() {
 
           
 
-          <div className="grid  grid-cols-2 md:grid-cols-4 gap-4 items-center text-left md:justify-items-center md:mx-auto mt-[3rem] md:mt-16">
+          <div className="grid md:pt-[3rem] grid-cols-2 md:grid-cols-4 gap-4 items-center text-left md:justify-items-center md:mx-auto mt-[3rem] md:mt-16">
             <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
               <p className="md:text-xl font-semibold flex gap-x-2 md:gap-x-4 items-center">
                 <PiCheckBold className="text-xl text-blue-500" />
