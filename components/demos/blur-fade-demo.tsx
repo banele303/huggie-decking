@@ -30,17 +30,17 @@ const works = [
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/pagols-min.png",
+    imageUrl: "/demin/pagols2-min.png",
    
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/pool2.jpg",
+    imageUrl: "/images/pool2.jpg",
    
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/mdecking.jpg",
+    imageUrl: "/demin/decking-min.jpg",
    
   },
   
@@ -56,7 +56,7 @@ const works = [
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/images/p1.jpg",
+    imageUrl: "/images/img6.jpg",
    
   },
   {

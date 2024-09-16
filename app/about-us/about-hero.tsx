@@ -12,7 +12,7 @@ export function AboutHero() {
         mx-auto 
         pt-[6rem]
         md:pt-[3.4rem]
-        md:text-center 
+        text-center 
         relative
          z-20 
          bg-clip-text
