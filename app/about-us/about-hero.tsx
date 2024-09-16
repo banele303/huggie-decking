@@ -37,7 +37,7 @@ export function AboutHero() {
             href="/meeting"
             className="
             py-2 
-    px-[3]
+    px-5
    md:px-16
    text-[15px]
       md:text-xl
@@ -60,7 +60,7 @@ export function AboutHero() {
               bg-white
                  text-gray-500
    py-2 
-   md:px-10  px-[3]
+   md:px-10  px-5
    md:px-16
    text-[15px]
       md:text-xl
