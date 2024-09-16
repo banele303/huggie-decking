@@ -5,7 +5,7 @@ export function SecondSection ( ) {
 <div>
         <h3
             className="
-           text-2xl md:text-4xl my-6 mb-[-10rem] pt-[8rem] md:my-10 md:text-center px-[2rem] font-extrabold text-blue-300">
+           text-2xl md:text-4xl my-6  pt-[8rem] md:my-10 md:text-center px-[2rem] font-extrabold text-blue-300">
 
  WOODEN PATIO DECKING, PERGOLAS & BALUSTRADES
           </h3>
