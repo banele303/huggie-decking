@@ -34,7 +34,7 @@ const Navbar = () => {
           className={
             scrolled
               ? "scrolled  bg-white items-center  mx-auto md:left-[10rem]  rounded-md w-full md:w-3/4 z-50 top-10  fixed drop-shadow-lg pt-[1.3rem] pb-[1.3rem] "
-              : "   z-50  bg-white  md:left-[10rem] rounded-md w-full  md:w-3/4  fixed drop-shadow-lg  py-[1rem]  "
+              : "   z-50  bg-white mr-[4rem]  md:left-[10rem] rounded-md w-full  md:w-3/4  fixed drop-shadow-lg  py-[1rem]  "
           }
         >
           <div className="px-2 flex justify-between items-center w-full h-full">
