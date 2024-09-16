@@ -9,6 +9,7 @@ import backgroundImage from "@/public/images/main-hero.jpg"
 import { AboutHero } from "./about-hero";
 import { SecondSection } from "./second-section";
 import { DeckingTypes } from "./decking-types";
+import Navbar from "./ui/Navbar";
 
 
 const AboutUS = () => {
@@ -40,28 +41,7 @@ const AboutUS = () => {
           />
         </Link>
 
-        <div className="absolute right-1/2 translate-x-1/2 transform">
-          <div className="hidden md:flex gap-x-10 items-center text-gray-700 font-medium text-lg cursor-pointer">
-            <Link href={"/showcase"} className="hover:text-blue-500">
-              Home
-            </Link>
-            <Link href={"/about-us"} className="hover:text-blue-500">
-              About US
-            </Link>
-            <Link href={"/all-services"} className="hover:text-blue-500">
-           Services
-            </Link>
-            <Link href={"/gallary"} className="hover:text-blue-500">
-              Galary
-            </Link>
-            
-
-
-           
-
-
-          </div>
-        </div>
+       <Navbar/>
 
         <div className="flex items-center gap-x-4">
           <a href="tel:519400200" className="hidden lg:flex">

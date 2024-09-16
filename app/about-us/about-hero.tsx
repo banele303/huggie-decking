@@ -27,17 +27,18 @@ export function AboutHero() {
                  flex 
                   md:justify-center 
                   items-center 
-                  gap-x-4
+                  gap-x-2
                   z-50
                  
                    "
         >
           <Link
             href="/meeting"
-            className="py-3 
-            px-10
-            md:px-16
-         
+            className="
+            py-32 
+   md:px-10  px-[3]
+   md:px-16
+   text-[15px]
       md:text-xl
       hover:bg-[#abcbff] 
       rounded-[6px]
@@ -57,9 +58,10 @@ export function AboutHero() {
             className="
               bg-white
                  text-gray-500
-   py-3 
-   px-10
+   py-32 
+   md:px-10  px-[3]
    md:px-16
+   text-[15px]
       md:text-xl
         border-4
         border-black

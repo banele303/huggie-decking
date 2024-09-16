@@ -91,14 +91,14 @@ const Navbar = () => {
             }
           >
             <li className=" md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
-            <Link href="/home-improvement">Home</Link>
+            <Link href="/">Home</Link>
             </li>
             
             <li className="md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
             <Link href="/about-us">About</Link>
             </li>
             <li className="md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
-            <Link href="/about-us">Services</Link>
+            <Link href="/services">Services</Link>
             </li>
             <li className="md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
               <Link href="/gallary">Gallary</Link>
