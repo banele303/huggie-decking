@@ -33,8 +33,8 @@ const Navbar = () => {
         <div
           className={
             scrolled
-              ? "scrolled  bg-white items-center  mx-auto md:left-[10rem]  rounded-md w-full md:w-3/4 z-50 top-10  fixed drop-shadow-lg pt-[1.3rem] pb-[1.3rem] "
-              : "   z-50  bg-white mr-[4rem]  md:left-[10rem] rounded-md w-full  md:w-3/4  fixed drop-shadow-lg  py-[1rem]  "
+              ? "scrolled  bg-white items-center  mx-auto md:left-[10rem]  rounded-md w-full md:w-3/4 z-50 top-5 md:top-10  fixed drop-shadow-lg pt-[1.3rem] pb-[1.3rem] "
+              : "   z-50  bg-white top-5 md:top-10  md:left-[10rem] rounded-md w-full  md:w-3/4  fixed drop-shadow-lg  py-[1rem]  "
           }
         >
           <div className="px-2 flex justify-between items-center w-full h-full">
@@ -93,9 +93,10 @@ const Navbar = () => {
             <li className=" md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
             <Link href="/home-improvement">Home</Link>
             </li>
-            <li className="md:ml-3 py-3 px-6 border-5 border-sky-900  text-[19px] font-Poppins cursor-pointer text-gray-800 font-bold">
-                  <Link href="/plumber-services">About Us</Link>
-                </li>
+            
+            <li className="md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
+            <Link href="/about-us">About</Link>
+            </li>
             <li className="md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
             <Link href="/about-us">Services</Link>
             </li>
