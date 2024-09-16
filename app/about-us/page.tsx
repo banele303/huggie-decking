@@ -12,6 +12,7 @@ import { DeckingTypes } from "./decking-types";
 import Navbar from "./ui/Navbar";
 
 
+
 const AboutUS = () => {
   return (
     <div
@@ -90,7 +91,7 @@ const AboutUS = () => {
 
 <SecondSection/>
 
-<DeckingTypes/>
+<BlurFadeDemo/>
     </div>
   );
 };
