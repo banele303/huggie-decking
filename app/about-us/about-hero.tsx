@@ -35,8 +35,8 @@ export function AboutHero() {
           <Link
             href="/meeting"
             className="
-            py-32 
-   md:px-10  px-[3]
+            py-2 
+    px-[3]
    md:px-16
    text-[15px]
       md:text-xl
@@ -58,7 +58,7 @@ export function AboutHero() {
             className="
               bg-white
                  text-gray-500
-   py-32 
+   py-2 
    md:px-10  px-[3]
    md:px-16
    text-[15px]
