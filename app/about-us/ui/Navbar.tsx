@@ -28,7 +28,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <div className="flex items-center ">
+    <div className="">
       <div>
         <div
           className={

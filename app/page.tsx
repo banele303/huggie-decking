@@ -66,7 +66,7 @@ export default function Home() {
         style={{ height:"550px"}} 
         className="absolute inset-0 z-0 "
       />
-<div className="px-[4rem]">
+<div className="mx-[4rem]">
 <Navbar/>
 </div>
 
