@@ -147,7 +147,7 @@ export default function Home() {
 
       
 
-      <main className="md:pb-10 pt-[9rem]">
+      <main className="md:pb-10 pt-[5rem] md:pt-[9rem]">
         <div className="md:px-0 mx-6 xl:w-4/5 2xl:w-[68%] md:mx-auto mt-14">
          
 

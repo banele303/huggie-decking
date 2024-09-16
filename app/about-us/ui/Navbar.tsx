@@ -33,14 +33,14 @@ const Navbar = () => {
         <div
           className={
             scrolled
-              ? "scrolled  bg-white items-center mx-auto md:left-[10rem] rounded-md w-3/4 z-50 top-10  fixed drop-shadow-lg pt-[1.3rem] pb-[1.3rem] "
-              : "   z-50  bg-white  md:left-[10rem] rounded-md   w-3/4  fixed drop-shadow-lg top-10 py-[1rem]  "
+              ? "scrolled  bg-white items-center mx-auto md:left-[10rem] rounded-md w-full md:w-3/4 z-50 top-10  fixed drop-shadow-lg pt-[1.3rem] pb-[1.3rem] "
+              : "   z-50  bg-white  md:left-[10rem] rounded-md w-full  md:w-3/4  fixed drop-shadow-lg top-10 py-[1rem]  "
           }
         >
           <div className="px-2 flex justify-between items-center w-full h-full">
-            <div className="flex items-center pl-6 realtive  bg-white">
+            <div className="flex items-center md:pl-6 realtive ">
              
-              <Image src="/images/logo.png" alt="logo" className="py-[1rem] absolute w-[9rem] h-[18rem]" width={200} height={50} />
+              <Image src="/images/logo.png" alt="logo" className="py-[1rem] absolute w-[6rem] md:w-[9rem] h-[11] md:h-[18rem]" width={200} height={50} />
              
             </div>
             <div className="hidden md:flex pr-4">
