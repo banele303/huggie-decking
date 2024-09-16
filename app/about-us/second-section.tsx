@@ -32,7 +32,7 @@ You can feel secure knowing that every one of our crew members is as dedicated t
         </div>
         <div className="mx-auto pt-[5rem] px-[2rem]">
           <Image
-            src={"/images/pimg1.jpg"}
+            src={"/denim/px2.jfif"}
             width={10000}
             height={10000}
             className=" roundend-md"
