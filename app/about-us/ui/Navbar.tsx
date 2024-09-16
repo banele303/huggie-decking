@@ -101,15 +101,15 @@ const Navbar = () => {
             <Link href="/about-us">Services</Link>
             </li>
             <li className="md:ml-3 py-3 px-6 font-Poppins border-5 border-sky-900 cursor-pointer text-gray-800 font-bold">
-              <Link href="/clients">Gallary</Link>
+              <Link href="/gallary">Gallary</Link>
             </li>
 
             <div className="flex flex-col my-4">
             <button
                 type="button"
-                className={`py-2 px-6  mr-[2rem]  hover:from-pink-500  font-poppins font-medium   text-[16px]  md:text-[20px] border-none rounded-md  text-gray-800   hover:scale-[1.1] transition-all duration-75  font-Poppins`}
+                className={`py-2 px-6  mr-[2rem]  hover:from-pink-500  font-bold bg-blue-400 font-poppins font-medium   text-[16px]  md:text-[20px] border-none rounded-md  text-gray-800   hover:scale-[1.1] transition-all duration-75  font-Poppins`}
               >
-                <Link href="/contact ">Get a Quote</Link>
+                <Link href="/contact">Get a Quote</Link>
               </button>
             </div>
           </ul>
