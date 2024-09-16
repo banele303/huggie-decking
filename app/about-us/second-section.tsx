@@ -5,7 +5,7 @@ export function SecondSection ( ) {
 <div>
         <h3
             className="
-           text-2xl md:text-4xl my-6 pt-[8rem] md:my-10 md:text-center px-[2rem] font-extrabold text-blue-300">
+           text-2xl md:text-4xl my-6 mb-[-60rem] pt-[8rem] md:my-10 md:text-center px-[2rem] font-extrabold text-blue-300">
 
  WOODEN PATIO DECKING, PERGOLAS & BALUSTRADES
           </h3>
@@ -32,7 +32,7 @@ You can feel secure knowing that every one of our crew members is as dedicated t
         </div>
         <div className="mx-auto pt-[5rem] px-[2rem]">
           <Image
-            src={"/demin/px2.jfif"}
+            src={"/demin/decking-min.png"}
             width={10000}
             height={10000}
             className=" roundend-md"
@@ -40,23 +40,6 @@ You can feel secure knowing that every one of our crew members is as dedicated t
           />
         </div>
       </section>
-
-
-
-<section>
-
-<h3
-            className="
-           text-2xl md:text-4xl my-6 pt-[6rem] md:my-10 md:text-center px-[2rem] font-extrabold text-blue-300">
-Choose from a range of decking options
-          </h3>
-<p  className="
-           text-xl md:text-xl my-6 md:my-10 px-[2rem] md:px-[6rem] leading-9 md:text-center text-gray-500">
-
-          There are a wide range of decking options from composite to wooden. Each has its pros and cons. Decking is a great compliment to existing driveway or swimming pool paving. Request a quote to get a free assessment and get your Decking prices.
-          </p>
-    </section>
-
 
       </div>
     )

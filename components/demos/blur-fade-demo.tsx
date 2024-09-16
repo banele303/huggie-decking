@@ -35,7 +35,7 @@ const works = [
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/mx3.jfif",
+    imageUrl: "/demin/pool2.jpg",
    
   },
   {
