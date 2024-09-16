@@ -10,7 +10,8 @@ export function AboutHero() {
        font-semibold
         max-w-8xl 
         mx-auto 
-        pt-[3.4rem]
+        pt-[6rem]
+        md:pt-[3.4rem]
         md:text-center 
         relative
          z-20 
@@ -25,7 +26,7 @@ export function AboutHero() {
         <div
           className="
                  flex 
-                  md:justify-center 
+                justify-center 
                   items-center 
                   gap-x-2
                   z-50
