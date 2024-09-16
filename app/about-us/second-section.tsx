@@ -5,7 +5,7 @@ export function SecondSection ( ) {
 <div>
         <h3
             className="
-           text-2xl md:text-4xl my-6 pt-[6rem] md:my-10 md:text-center px-[2rem] font-extrabold text-blue-300">
+           text-2xl md:text-4xl my-6 pt-[8rem] md:my-10 md:text-center px-[2rem] font-extrabold text-blue-300">
 
  WOODEN PATIO DECKING, PERGOLAS & BALUSTRADES
           </h3>
@@ -32,7 +32,7 @@ You can feel secure knowing that every one of our crew members is as dedicated t
         </div>
         <div className="mx-auto pt-[5rem] px-[2rem]">
           <Image
-            src={"/denim/px2.jfif"}
+            src={"/demin/px2.jfif"}
             width={10000}
             height={10000}
             className=" roundend-md"

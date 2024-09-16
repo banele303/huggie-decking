@@ -10,17 +10,27 @@ const works = [
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/px4.jfif",
+    imageUrl: "/demin/decking-min.png",
    
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/mx2.jfif",
+    imageUrl: "/demin/mx2-min.png",
    
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/px5.jfif",
+    imageUrl: "/demin/pagoals-min.png",
+   
+  },
+  {
+    background: "bg-gray-200",
+    imageUrl: "/demin/pooldecking-min.png",
+   
+  },
+  {
+    background: "bg-gray-200",
+    imageUrl: "/demin/pagols-min.png",
    
   },
   {
@@ -30,24 +40,10 @@ const works = [
   },
   {
     background: "bg-gray-200",
-    imageUrl: "/demin/mx1.jfif",
+    imageUrl: "/demin/mdecking.jpg",
    
   },
-  {
-    background: "bg-gray-200",
-    imageUrl: "/demin/mx3.jfif",
-   
-  },
-  {
-    background: "bg-gray-200",
-    imageUrl: "/demin/px1.jfif",
-   
-  },
-  {
-    background: "bg-gray-200",
-    imageUrl: "/demin/mdx.jfif",
-   
-  },
+  
   {
     background: "bg-gray-200",
     imageUrl: "/images/main-hero.jpg",
@@ -73,19 +69,7 @@ const works = [
     imageUrl: "/images/mm.jpg",
     
   },
-  {
-    background: "bg-gray-200",
-    imageUrl: "/demin/px3.jfif",
-    
-  },
- 
-  {
-    background: "bg-gray-200",
-    imageUrl: "/demin/mx2.jfif",
-    
-  },
- 
-
+  
 
 ];
 
