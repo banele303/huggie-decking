@@ -131,7 +131,7 @@ You can feel secure knowing that every one of our crew members is as dedicated t
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose Huggie Decking</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              We're committed to quality, reliability, and exceptional customer service
+              We&apos;re committed to quality, reliability, and exceptional customer service
             </p>
           </div>
 
@@ -303,7 +303,7 @@ You can feel secure knowing that every one of our crew members is as dedicated t
               </div>
               <p className="text-gray-600 mb-6 italic">
               &quote;Professional from start to finish. The team was punctual, clean, and completed our deck ahead of
-                schedule. Couldn't be happier with the result.&quote;
+                schedule. Couldn&apos;t be happier with the result.&quote;
               </p>
               <div>
                 <p className="font-bold">Michael Nkosi</p>
